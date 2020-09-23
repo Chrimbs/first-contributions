@@ -119,6 +119,7 @@
 - [Reinaldo Araujo](https://github.com/reinaldocomputer/)
 - [miwatso]
 - [Osman Kamara](https://github.com/osmankbk)
+- [miwatso](#)
 - [kuldeep_singh]
 - Peyton Miller
 Sameer Choudhary
@@ -173,7 +174,7 @@ Pramit Patel
 - [Arthur Sena](https://github.com/senaarth)
 - [Lee Wannacott](https://github.com/LeeWannacott)
 - [Maximillian Campbell](https://github.com/msoup-hub)
-- [Chris Hein] 
+- [ChrisH] 
 - Adam Elitzur
 - [Patrick jeeva](https://github.com/patrickjeeva)
 - [Vijay Yevatkar]
